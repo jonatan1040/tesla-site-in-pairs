@@ -44,7 +44,7 @@ body {
   right: 0;
   display: inline-block;
   font-size: 1.2rem;
-  color: #ffffff;
+  color: red;
   margin-right: 20px;
   transform: translateY(7px);
 }
